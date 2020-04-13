@@ -4,7 +4,7 @@ Implementation of a corner detector in MATLAB, using Harris algorithm. The deriv
 
 ## Matrix E
 
-Matrix *E* contains for every point the value of the smaller eigenvalue of *M*.
+Matrix *E* contains the value of the smaller eigenvalue of *M* for every point.
 
 <p align="center">
   <img src="/img/E_matrix.png" width="300px">
